@@ -174,8 +174,8 @@ app_public_url = http://<EC2_PUBLIC_IP>:8000
 ```
 http://<EC2_PUBLIC_IP>:8000
 
-    แล้วต่อด้วย 
-      /client (คนส่งพัสดุ)
+    หลัง :8000 ให้ต่อด้วย 
+      /client (สหรับคนส่งพัสดุ)
       /admin (สำหรับแอดมิน)
       /recipient (สำหรับคนรับพัสดุ)
 ```
