@@ -11,5 +11,5 @@ variable "key_name" {
 }
 
 variable "github_repo" {
-  default = "https://github.com/tanawichsingpae/NUDPACKtest.git"
+  default = "https://github.com/naruemon66/test_NUDPACK.git"
 }
